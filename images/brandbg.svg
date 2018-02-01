@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1312px" height="702px" viewBox="0 0 1312 702" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>brandbg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="75.467033 62.5357143 266.636703 62.5357143 234.471754 95.6428571 75.467033 95.6428571"></polygon>
+        <polygon id="path-2" points="0 0 312.912088 0 279.976782 33.1071429 0 33.1071429"></polygon>
+        <polygon id="path-3" points="301.868132 54.6707027 335 21.2044531 335 515 301.868132 515"></polygon>
+        <rect id="path-4" x="0" y="481.892857" width="335" height="33.1071429"></rect>
+        <rect id="path-5" x="0" y="0" width="33.1318681" height="515"></rect>
+        <polygon id="path-6" points="106.474275 423.035714 265.054945 423.035714 265.054945 456.142857 73.6263736 456.142857"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="brandbg">
+            <rect id="Rectangle" fill="#585757" x="0" y="-4" width="1312" height="706"></rect>
+            <g id="Group" transform="translate(273.000000, 92.000000)">
+                <path d="M92.2520931,245.479879 L250.49871,245.479879" id="Line" stroke="#FFFFFF" stroke-width="33.075" stroke-linecap="square"></path>
+                <path d="M92.2520931,245.479879 L92.2520931,79.167002" id="Line" stroke="#FFFFFF" stroke-width="33.075" stroke-linecap="square"></path>
+                <path d="M249.384298,439.511569 L249.384298,302.026258" id="Line" stroke="#FFFFFF" stroke-width="33.075" stroke-linecap="square"></path>
+                <g id="Rectangle-2">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#FFFFFF" stroke-width="1.875" d="M76.404533,63.4732143 L76.404533,94.7053571 L234.075478,94.7053571 L264.418788,63.4732143 L76.404533,63.4732143 Z"></path>
+                </g>
+                <g id="Rectangle-4">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#FFFFFF" stroke-width="1.875" d="M0.9375,0.9375 L0.9375,32.1696429 L279.587027,32.1696429 L310.657065,0.9375 L0.9375,0.9375 Z"></path>
+                </g>
+                <g id="Rectangle-5">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#FFFFFF" stroke-width="1.875" d="M302.805632,55.0562735 L302.805632,514.0625 L334.0625,514.0625 L334.0625,23.4839471 L302.805632,55.0562735 Z"></path>
+                </g>
+                <g id="Rectangle-6">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#FFFFFF" stroke-width="1.875" x="0.9375" y="482.830357" width="333.125" height="31.2321429"></rect>
+                </g>
+                <g id="Rectangle-7">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <rect stroke="#FFFFFF" stroke-width="1.875" x="0.9375" y="0.9375" width="31.2568681" height="513.125"></rect>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <path stroke="#FFFFFF" stroke-width="1.875" d="M106.86476,423.973214 L75.8771772,455.205357 L264.117445,455.205357 L264.117445,423.973214 L106.86476,423.973214 Z"></path>
+                </g>
+            </g>
+            <rect id="Rectangle-2" fill="#000000" opacity="0.702332428" x="0" y="0.157303371" width="1312" height="701.842697"></rect>
+        </g>
+    </g>
+</svg>

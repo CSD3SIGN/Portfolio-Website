@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1312px" height="702px" viewBox="0 0 1312 702" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>appbg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="appbg">
+            <rect id="Rectangle" fill="#4EE6F6" x="0" y="-4" width="1312" height="706"></rect>
+            <g id="City-Hall" transform="translate(438.000000, 114.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-6" x="77.9104478" y="283.131764" width="38.9552239" height="97.4176474"></rect>
+                <rect id="Rectangle-6" x="136.343284" y="283.131764" width="38.9552239" height="97.4176474"></rect>
+                <rect id="Rectangle-6" x="266.19403" y="283.131764" width="38.9552239" height="97.4176474"></rect>
+                <rect id="Rectangle-6" x="324.626866" y="283.131764" width="38.9552239" height="97.4176474"></rect>
+                <rect id="Rectangle-6" x="77.9104478" y="393.538431" width="285.671642" height="45.4615688"></rect>
+                <rect id="Rectangle-6" x="194.776119" y="283.131764" width="51.9402985" height="97.4176474"></rect>
+                <polygon id="Rectangle-5" points="77.9104478 225.037972 220.746269 179.237928 363.58209 224.690336 363.58209 270.142744 77.9104478 270.142744"></polygon>
+                <polygon id="Rectangle-3" points="90.8955224 166.230587 214.253731 166.230587 90.8955224 205.197646"></polygon>
+                <polygon id="Rectangle-3" transform="translate(288.917910, 185.714117) scale(-1, 1) translate(-288.917910, -185.714117) " points="227.238806 166.230587 350.597015 166.230587 227.238806 205.197646"></polygon>
+                <rect id="Rectangle-2" x="214.253731" y="0" width="12.9850746" height="45.4615688" rx="6.49253731"></rect>
+                <rect id="Rectangle-4" x="0" y="224.681176" width="38.9552239" height="213.224556" rx="15.36"></rect>
+                <rect id="Rectangle-4" x="19.4776119" y="224.681176" width="38.9552239" height="213.224556"></rect>
+                <rect id="Rectangle-4" x="396.044776" y="224.681176" width="38.9552239" height="213.224556" rx="15.36"></rect>
+                <rect id="Rectangle-4" x="376.567164" y="224.681176" width="38.9552239" height="213.224556"></rect>
+                <path d="M220.746269,37.3689024 C220.746269,37.3689024 256.558147,29.6044561 308.41475,67.0974966 C360.271352,104.590537 350.597015,155.868236 350.597015,155.868236 L90.8955224,155.868236 C90.8955224,155.868236 82.485411,105.602692 131.802979,67.0974966 C181.120548,28.5923015 220.746269,37.3689024 220.746269,37.3689024 Z" id="Rectangle-10"></path>
+            </g>
+            <rect id="Rectangle-2" fill="#000000" opacity="0.702332428" x="0" y="0.157303371" width="1312" height="701.842697"></rect>
+        </g>
+    </g>
+</svg>

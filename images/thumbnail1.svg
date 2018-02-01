@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="352px" height="248px" viewBox="0 0 352 248" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>thumbnail1 </title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="thumbnail1-">
+            <rect id="Rectangle-16" fill="#585757" x="-37" y="-96" width="427" height="437"></rect>
+            <g id="Group" transform="translate(50.000000, 54.000000)">
+                <path d="M24.508765,65.3024145 L66.5504037,65.3024145" id="Line" stroke="#F5A623" stroke-width="8.82" stroke-linecap="square"></path>
+                <path d="M24.508765,65.3024145 L24.508765,21.0599598" id="Line" stroke="#F5A623" stroke-width="8.82" stroke-linecap="square"></path>
+                <path d="M66.2543358,116.918612 L66.2543358,80.3448491" id="Line" stroke="#000000" stroke-width="8.82" stroke-linecap="square"></path>
+                <polygon id="Rectangle-2" fill="#F5A623" points="20.0494505 16.6357143 70.8378107 16.6357143 62.2924959 25.4428571 20.0494505 25.4428571"></polygon>
+                <polygon id="Rectangle-4" fill="#000000" points="0 0 83.1318681 0 74.3818913 8.80714286 0 8.80714286"></polygon>
+                <polygon id="Rectangle-5" fill="#000000" points="80.1978022 14.5434685 89 5.64079625 89 137 80.1978022 137"></polygon>
+                <rect id="Rectangle-6" fill="#000000" x="0" y="128.192857" width="89" height="8.80714286"></rect>
+                <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="8.8021978" height="137"></rect>
+                <polygon id="Rectangle" fill="#000000" points="28.2871954 112.535714 70.4175824 112.535714 70.4175824 121.342857 19.5604396 121.342857"></polygon>
+            </g>
+            <text id="CRAIG-STEWART-DESIGN" font-family="Helvetica-Light, Helvetica" font-size="30" font-weight="300" letter-spacing="-0.372727245">
+                <tspan x="177" y="101" fill="#000000">CRAIG</tspan>
+                <tspan x="177" y="137" fill="#000000">STEWART</tspan>
+                <tspan x="177" y="173" fill="#F5A623">DESIGN</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

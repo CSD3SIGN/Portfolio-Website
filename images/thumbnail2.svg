@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="352px" height="248px" viewBox="0 0 352 248" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>thumbnail2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="thumbnail2">
+            <rect id="Rectangle-16" fill="#4EE6F6" x="-35" y="-25" width="422" height="298"></rect>
+            <g id="City-Hall" transform="translate(40.000000, 56.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-6" x="24.358209" y="88.3577487" width="12.1791045" height="30.4014071"></rect>
+                <rect id="Rectangle-6" x="42.6268657" y="88.3577487" width="12.1791045" height="30.4014071"></rect>
+                <rect id="Rectangle-6" x="83.2238806" y="88.3577487" width="12.1791045" height="30.4014071"></rect>
+                <rect id="Rectangle-6" x="101.492537" y="88.3577487" width="12.1791045" height="30.4014071"></rect>
+                <rect id="Rectangle-6" x="24.358209" y="122.812677" width="89.3134328" height="14.1873233"></rect>
+                <rect id="Rectangle-6" x="60.8955224" y="88.3577487" width="16.238806" height="30.4014071"></rect>
+                <polygon id="Rectangle-5" points="24.358209 70.2282511 69.0149254 55.9352987 113.671642 70.1197632 113.671642 84.3042278 24.358209 84.3042278"></polygon>
+                <polygon id="Rectangle-3" points="28.4179104 51.8760602 66.9850746 51.8760602 28.4179104 64.0366231"></polygon>
+                <polygon id="Rectangle-3" transform="translate(90.328358, 57.956342) scale(-1, 1) translate(-90.328358, -57.956342) " points="71.0447761 51.8760602 109.61194 51.8760602 71.0447761 64.0366231"></polygon>
+                <rect id="Rectangle-2" x="66.9850746" y="0" width="4.05970149" height="14.1873233" rx="2.02985075"></rect>
+                <rect id="Rectangle-4" x="0" y="70.1169045" width="12.1791045" height="66.5416041" rx="4.8"></rect>
+                <rect id="Rectangle-4" x="6.08955224" y="70.1169045" width="12.1791045" height="66.5416041"></rect>
+                <rect id="Rectangle-4" x="123.820896" y="70.1169045" width="12.1791045" height="66.5416041" rx="4.8"></rect>
+                <rect id="Rectangle-4" x="117.731343" y="70.1169045" width="12.1791045" height="66.5416041"></rect>
+                <path d="M69.0149254,11.6618215 C69.0149254,11.6618215 80.2112829,9.23874825 96.4239217,20.9393099 C112.636561,32.6398715 109.61194,48.6422513 109.61194,48.6422513 L28.4179104,48.6422513 C28.4179104,48.6422513 25.7885423,32.9557375 41.2073682,20.9393099 C56.6261942,8.92288225 69.0149254,11.6618215 69.0149254,11.6618215 Z" id="Rectangle-10"></path>
+            </g>
+            <text id="Tour-City" font-family="CeraGR-Regular" font-size="56.16" font-weight="normal" letter-spacing="-2.38679996" fill="#FFFFFF">
+                <tspan x="201.71504" y="126">Tour </tspan>
+                <tspan x="205.95512" y="182">City</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
